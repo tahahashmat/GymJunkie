@@ -1,0 +1,29 @@
+<resources>
+    <!-- Header text value -->
+    <string name="app_name">Gym Junkie</string>
+
+    <!-- App String values -->
+    <string name="title">Gym Junkie</string>
+    <string name="exercise">Exercise Name</string>
+    <string name="exerciseDescription">Exercise Description</string>
+
+    <!-- App Button String values -->
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="arms">Arms</string>
+    <string name="legs">Legs</string>
+    <string name="chest">Chest</string>
+    <string name="back">Back</string>
+    <string name="core">Core</string>
+    <string name="add">Add Workout</string>
+
+    <!-- Dialog EditText String values -->
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+
+    <!-- Navbar String values -->
+    <string name="home">Home</string>
+    <string name="map">Map</string>
+    <string name="user">User</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
