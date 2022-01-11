@@ -1,4 +1,4 @@
-# GymJunkie-MobileAppProject
+# GymJunkie
 
 Welcome to GymJunkie, an application that helps you track your daily home and gym workouts alongside tracking your steps and BMI!
 
